@@ -11,4 +11,4 @@
 >## ***v1.0 -- 2023-06-02***
 >>### ***Trainer Released***
 >>+ *Put some work into the internal trainer. Re-releasing for public use. This trainer is more for learning purposes, please report any crashes or issues you encounter!*
->###### <center> ***Created and released by Chr0nicxHack3r#6641*** </center>
+>###### <center> ***Created and released by Chr0nicxHack3r*** </center>

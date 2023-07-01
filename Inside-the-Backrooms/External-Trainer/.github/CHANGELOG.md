@@ -63,4 +63,4 @@
 >>+ *No anxiety*<br>
 >>+ *No Radiation*<br>
 >>+ *Can't drop items*
->###### <center> ***Created and released by Chr0nicxHack3r#6641*** </center>
+>###### <center> ***Created and released by Chr0nicxHack3r*** </center>

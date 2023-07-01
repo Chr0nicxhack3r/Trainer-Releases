@@ -1,6 +1,6 @@
 # <center> "Inside the Backrooms" External Trainer </center>
 >### ***Info:***
->>*- Save this to a folder with an exclusion in your firewall or add an exclusion for this program.*<br>
+>>*Save this to a folder with an exclusion in your firewall or add an exclusion for this program.*<br>
 >### ***Instructions:***
 >>1. *Launch game*
 >>2. *Play singleplayer or host a game*
@@ -12,5 +12,12 @@
 >>3. *Cheats still work after death (Most AI with jumpscare can still kill you pickup  items after respawn)*
 >>4. *If you close trainer during game it will revert cheats back to normal*
 >### ***Features:***
->> Infinite stamina & health, No anxiety, No radiation, Can't lose items, Monsters don't attack anyone, Don't lose lives, Pause death timer
->###### <center> ***Created and released by Chr0nicxHack3r#6641*** </center>
+>>*- Infinite stamina & health*<br>
+>>*- Infinite boost <span style="color: yellow;">(NOTE: Must consume moth jelly first)</span>*<br>
+>>*- No anxiety*<br>
+>>*- No radiation*<br>
+>>*- Can't lose items*<br>
+>>*- Monsters don't attack anyone*<br>
+>>*- Don't lose lives*<br>
+>>*- Pause death timer*<br>
+>###### <center> ***Created and released by Chr0nicxHack3r*** </center>
