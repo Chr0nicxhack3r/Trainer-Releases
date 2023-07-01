@@ -8,9 +8,8 @@
 >>4. *Use keybinds to activate cheats*
 >### ***Key Notes:***
 >>1. *If you quit to the main menu you have to re-inject trainer when reloaded into new game*
->>2. *You must have 2 or more of a single item for it to never go away*
->>3. *Cheats still work after death (Most AI with jumpscare can still kill you pickup  items after respawn)*
->>4. *If you close trainer during game it will revert cheats back to normal*
+>>2. *Cheats still work after death (Most AI with jumpscare can still kill you pickup  items after respawn)*
+>>3. *If you close trainer during game it will revert cheats back to normal*
 >### ***Features:***
 >>*- Infinite stamina & health*<br>
 >>*- Infinite boost <span style="color: yellow;">(NOTE: Must consume moth jelly first)</span>*<br>
