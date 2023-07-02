@@ -1,9 +1,14 @@
 ---
 name: Bug report
 about: Tell me an issue you may have encountered.
+title: ''
+labels: ''
 assignees: Chr0nicxhack3r
 
 ---
+
+**Trainer name**
+[TRAINER NAME HERE](GITHUB TRAINER LINK HERE) 
 
 **Describe the bug**
 A clear and concise description of what happened.
