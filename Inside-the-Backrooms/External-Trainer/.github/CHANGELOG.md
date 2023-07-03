@@ -1,4 +1,9 @@
 # <center> "Inside the Backrooms" External Trainer Changelog </center>
+>## ***v1.4.18 -- 2023-07-02***
+>>### ***Fixed***
+>>+ *Console no longer running in the background when closing game after hidden*
+>>+ *Changed console to be topmost when shown and target game when hiding*
+>>+ *Updated Dev name*
 >## ***v1.4.17 -- 2023-07-01***
 >>### ***Added***
 >>+ *"Home" will toggle the menu hide/show*
