@@ -1,4 +1,8 @@
 # <center> "Inside the Backrooms" Internal Trainer Changelog </center>
+>## ***v1.1.3 -- 2023-07-04***
+>>### ***Fixed***
+>>+ *Removed all foreground window related commands*
+>>+ *Code cleanup*
 >## ***v1.1.2 -- 2023-07-01***
 >>### ***Added***
 >>+ *"Home" will toggle the menu hide/show*

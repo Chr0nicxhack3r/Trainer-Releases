@@ -1,4 +1,8 @@
 # <center> "Inside the Backrooms" External Trainer Changelog </center>
+>## ***v1.4.19 -- 2023-07-04***
+>>### ***Fixed***
+>>+ *Removed all foreground window related commands*
+>>+ *Code cleanup*
 >## ***v1.4.18 -- 2023-07-02***
 >>### ***Fixed***
 >>+ *Console no longer running in the background when closing game after hidden*

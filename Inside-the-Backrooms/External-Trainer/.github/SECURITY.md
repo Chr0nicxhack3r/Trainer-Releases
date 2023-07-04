@@ -2,9 +2,8 @@
 >## ***Supported Versions***
 >>| Version    | Supported          |
 >>| ---------  | ------------------ |
->>| 1.4.18     | :white_check_mark: |
->>| 1.3.17     | :white_check_mark: |
->>| 1.3.16     | :white_check_mark: |
+>>| 1.4.19     | :white_check_mark: |
+>>| 1.3.18<    | :white_check_mark: |
 >>| <1.3.15    | :x:                |
 >## ***Reporting a issues***
 >>+ *Message me on discord Chr0nicxHack3r*
