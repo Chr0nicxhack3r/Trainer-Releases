@@ -1,5 +1,5 @@
 # <center> "Car Mechanic Simulator 2021" External Trainer Changelog </center>
->## ***v1.1.2 -- 2023-07-02***
+>## ***v1.1.2 -- 2023-07-04***
 >>### ***Added***
 >>+ *Got keybind and info added for console toggle hide/show*
 >>+ *Changed F4 keybind to F5 to avoid alt + F4 issues*
