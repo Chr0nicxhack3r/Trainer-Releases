@@ -1,4 +1,6 @@
 # <center> Chr0nicxHack3r's Internal/External Trainer's </center>
+>### ***DISCLAIMER:***
+>>*I the developer Chr0nicxHack3r, can't be held liable for any action taken against you or any account you use while using these trainers. You agree to this when you download/clone this repository.*<br>
 >### ***Info:***
 >>*Save these trainers to a folder with an exclusion in your firewall or add an exclusion for each trainer.*<br>
 >### ***What to expect:***
