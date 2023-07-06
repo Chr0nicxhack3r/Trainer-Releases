@@ -1,4 +1,7 @@
 # <center> "Inside the Backrooms" External Trainer Changelog </center>
+>## ***v1.4.20 -- 2023-07-05***
+>>### ***Fixed***
+>>+ *Updated to latest game version*
 >## ***v1.4.19 -- 2023-07-04***
 >>### ***Fixed***
 >>+ *Removed all foreground window related commands*
