@@ -5,10 +5,10 @@
 >>### ***Trainer:***
 >>+ *Changed menu to be GUI*
 >>+ *Removed "Don't Lose Items" with new inventory system*
->>+ *Game no longer crashes when quiting*
+>>+ *Game no longer crashes when quitting*
 >>+ *Cheats deactivate when starting new lobby*
 >>### ***Added***
->>+ *No radition now acts out of radiation zone*
+>>+ *No radiation now acts out of radiation zone*
 >>+ *Infinite boost now activates moth jelly boost*
 >>+ *Walk speed*
 >>+ *Run speed*
