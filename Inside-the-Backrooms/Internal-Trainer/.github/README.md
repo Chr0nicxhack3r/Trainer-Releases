@@ -5,19 +5,20 @@
 >### ***Instructions:***
 >>1. *Launch game*
 >>2. *Play singleplayer or host a game*
->>3. *Once loaded in and can move around inject trainer*
->>4. *Use keybinds to activate cheats*
+>>3. *<span style="color: yellow;">Once loaded in and can move around inject trainer</span>*
+>>4. *Use manual entry/checkboxes to activate cheats*
 >### ***Key Notes:***
->>1. *If you quit to the main menu you have to re-inject trainer when reloaded into new game*
->>2. *Cheats still work after death (Most AI with jumpscare can still kill you pickup  items after respawn)*
->>3. *If you close trainer during game it will revert cheats back to normal*
+>>1. *Cheats still work after death (Most AI with jumpscare can still kill you pickup  items after respawn)*
+>>1. *Variables will reset when changing map/lobby*
 >### ***Features:***
 >>*- Infinite stamina & health*<br>
->>*- Infinite boost <span style="color: yellow;">(NOTE: Must consume moth jelly first)</span>*<br>
+>>*- Infinite boost <span style="color: yellow;">(NOTE: Will give boost from jelly)</span>*<br>
 >>*- No anxiety*<br>
 >>*- No radiation*<br>
->>*- Can't lose items*<br>
 >>*- Monsters don't attack anyone*<br>
 >>*- Don't lose lives*<br>
 >>*- Pause death timer*<br>
+>>*- Change Walk Speed*<br>
+>>*- Change Run Speed*<br>
+>>*- Change Jump Force*<br>
 >###### <center> ***Created and released by Chr0nicxHack3r*** </center>

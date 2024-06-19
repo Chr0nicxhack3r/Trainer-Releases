@@ -1,4 +1,18 @@
 # <center> "Inside the Backrooms" Internal Trainer Changelog </center>
+>## ***v2.2.56614 -- 2023-06-14***
+>>### ***Fixed***
+>>+ *Updated to latest game version*
+>>### ***Trainer:***
+>>+ *Changed menu to be GUI*
+>>+ *Removed "Don't Lose Items" with new inventory system*
+>>+ *Game no longer crashes when quiting*
+>>+ *Cheats deactivate when starting new lobby*
+>>### ***Added***
+>>+ *No radition now acts out of radiation zone*
+>>+ *Infinite boost now activates moth jelly boost*
+>>+ *Walk speed*
+>>+ *Run speed*
+>>+ *Jump force*
 >## ***v1.1.14 -- 2023-09-29***
 >>### ***Fixed***
 >>+ *Updated to latest game version*
