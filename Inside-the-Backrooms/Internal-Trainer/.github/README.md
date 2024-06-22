@@ -10,6 +10,8 @@
 >### ***Key Notes:***
 >>1. *Cheats still work after death (Most AI with jumpscare can still kill you pickup  items after respawn)*
 >>2. *Variables will reset when changing map/lobby*
+>>3. *Game must be played using Dx11*
+>>4. *Disable AV - Real-time protection for best results*
 >### ***Features:***
 >>*- Infinite stamina & health*<br>
 >>*- Infinite boost <span style="color: yellow;">(NOTE: Will give boost from jelly)</span>*<br>
