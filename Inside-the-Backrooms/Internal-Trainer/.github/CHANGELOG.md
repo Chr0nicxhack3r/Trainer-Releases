@@ -1,5 +1,12 @@
 # <center> "Inside the Backrooms" Internal Trainer Changelog </center>
->## ***v2.2.56614 -- 2023-06-14***
+>## ***v2.2.1.62224 -- 2024-06-22***
+>>### ***Trainer:***
+>>+ *Added a "Known Crashes" tab*
+>>+ *Move speed and jump force to "Player Speed/Jump" tab*
+>>+ *Move manual range entry to same line as added default info*
+>>### ***Added***
+>>+ *Added "Max Speed/Jump" for quick adjustment*
+>## ***v2.2.0.61624 -- 2024-06-14***
 >>### ***Fixed***
 >>+ *Updated to latest game version*
 >>### ***Trainer:***
