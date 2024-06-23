@@ -1,5 +1,6 @@
 # <center> "Inside the Backrooms" Internal Trainer </center>
->##### <center> ***[Changelog](https://github.com/Chr0nicxhack3r/Trainer-Releases/blob/main/Inside-the-Backrooms/Internal-Trainer/.github/SECURITY.md)*** </center>
+>##### <center> ***[Changelog](https://github.com/Chr0nicxhack3r/Trainer-Releases/blob/main/Inside-the-Backrooms/.github/CHANGELOG.md)*** </center>
+>##### <center> ***[Version Support](https://github.com/Chr0nicxhack3r/Trainer-Releases/blob/main/Inside-the-Backrooms/.github/SECURITY.md)*** </center>
 >### ***Info:***
 >>*- Save this to a folder with an exclusion in your firewall or add an exclusion for this program.*<br>
 >### ***Instructions:***
