@@ -11,10 +11,11 @@
 >### ***Key Notes:***
 >>1. *Cheats still work after death (Most AI with jumpscare can still kill you pickup  items after respawn)*
 >>2. *Variables will reset when changing map/lobby*
->>3. *Game must be played using Dx11*
->>4. *Disable AV - Real-time protection for best results*
+>>3. *<span style="color: yellow;">Game will crash if pause death timer is activated before death</span>*
+>>4. *Game must be played using Dx11*
+>>5. *Disable AV - Real-time protection for best results*
 >### ***Features:***
->>*- Infinite stamina & health*<br>
+>>*- Infinite health, oxygen, & stamina*<br>
 >>*- Infinite boost <span style="color: yellow;">(NOTE: Will give boost from jelly)</span>*<br>
 >>*- No anxiety*<br>
 >>*- No radiation*<br>
@@ -22,6 +23,11 @@
 >>*- Don't lose lives*<br>
 >>*- Pause death timer*<br>
 >>*- Change Walk Speed*<br>
+>>*- Change Crouch Speed*<br>
+>>*- Change Crawl Speed*<br>
 >>*- Change Run Speed*<br>
+>>*- Change Climb Speed*<br>
 >>*- Change Jump Force*<br>
+>>*- Change Normal/Fast Swim Speed*<br>
+>>*- Change Normal/Fast Dive Speed*<br>
 >###### <center> ***Created and released by Chr0nicxHack3r*** </center>

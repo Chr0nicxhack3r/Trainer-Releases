@@ -1,4 +1,14 @@
 # <center> "Inside the Backrooms" Internal Trainer Changelog </center>
+>## ***v2.4.0 -- 2024-12-01***
+>>### ***Fixed***
+>>+ *Updated to latest game version*
+>>### ***Added***
+>>+ *Infinite Oxygen*
+>>+ *Crouch Speed*
+>>+ *Crawl Speed*
+>>+ *Climb Speed*
+>>+ *Normal/Fast Swim Speed*
+>>+ *Normal/Fast Dive Speed*
 >## ***v2.2.1.62224 -- 2024-06-22***
 >>### ***Trainer:***
 >>+ *Added a "Known Crashes" tab*
